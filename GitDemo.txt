@@ -8,4 +8,8 @@ hello world
 7. git push --set-upstream origin add-link : them tren github 1 branch la add-link.
 8. git checkout : de chuyen doi giua cac branch. 
 9. git merge add-link : de merge code tu branch add-link vao master.
-hello world. aaaa
+
+neu conflich git add file -> git push -> git pull -> sua file.
+=======
+hello world. bbbb
+>>>>>>> f0df10bb5074681f8ab50f5e3f62daf985839a65
