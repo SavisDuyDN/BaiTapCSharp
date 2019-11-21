@@ -4,4 +4,6 @@ hello world
 3. git remote add origin https://github.com/SavisDuyDN/BaiTapCSharp.git : add dia chi
 4. git push -u origin master : an code len github.
 5. git pull : de update code tren github ve may minh.
-hello world. aaa
+6. git branch add-link: tao branch co ten la add-link.
+7. git push --set-upstream origin add-link : them tren github 1 branch la add-link.
+hello world. bbb
