@@ -5,4 +5,3 @@ hello world
 4. git push -u origin master : an code len github.
 5. git pull : de update code tren github ve may minh.
 hello world. aaa
-
