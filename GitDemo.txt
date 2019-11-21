@@ -6,4 +6,6 @@ hello world
 5. git pull : de update code tren github ve may minh.
 6. git branch add-link: tao branch co ten la add-link.
 7. git push --set-upstream origin add-link : them tren github 1 branch la add-link.
-hello world. bbb
+8. git checkout : de chuyen doi giua cac branch. 
+9. git merge add-link : de merge code tu branch add-link vao master.
+hello world. aaaa
