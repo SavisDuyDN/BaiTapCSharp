@@ -12,4 +12,3 @@ hello world
 neu conflich git add file -> git push -> git pull -> sua file.
 =======
 hello world. bbbb
->>>>>>> f0df10bb5074681f8ab50f5e3f62daf985839a65
