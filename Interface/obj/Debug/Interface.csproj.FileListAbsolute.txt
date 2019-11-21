@@ -1,0 +1,7 @@
+D:\TestSession\SavisC#\CSharpBasic\Interface\bin\Debug\Interface.exe.config
+D:\TestSession\SavisC#\CSharpBasic\Interface\bin\Debug\Interface.exe
+D:\TestSession\SavisC#\CSharpBasic\Interface\bin\Debug\Interface.pdb
+D:\TestSession\SavisC#\CSharpBasic\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+D:\TestSession\SavisC#\CSharpBasic\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\TestSession\SavisC#\CSharpBasic\Interface\obj\Debug\Interface.exe
+D:\TestSession\SavisC#\CSharpBasic\Interface\obj\Debug\Interface.pdb

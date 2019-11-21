@@ -1,0 +1,7 @@
+D:\TestSession\SavisC#\CSharpBasic\Abtract\bin\Debug\Abtract.exe.config
+D:\TestSession\SavisC#\CSharpBasic\Abtract\bin\Debug\Abtract.exe
+D:\TestSession\SavisC#\CSharpBasic\Abtract\bin\Debug\Abtract.pdb
+D:\TestSession\SavisC#\CSharpBasic\Abtract\obj\Debug\Abtract.csprojAssemblyReference.cache
+D:\TestSession\SavisC#\CSharpBasic\Abtract\obj\Debug\Abtract.csproj.CoreCompileInputs.cache
+D:\TestSession\SavisC#\CSharpBasic\Abtract\obj\Debug\Abtract.exe
+D:\TestSession\SavisC#\CSharpBasic\Abtract\obj\Debug\Abtract.pdb

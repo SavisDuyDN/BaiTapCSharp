@@ -1,0 +1,7 @@
+D:\TestSession\SavisC#\CSharpBasic\AlonePerson\obj\Debug\AlonePerson.csprojAssemblyReference.cache
+D:\TestSession\SavisC#\CSharpBasic\AlonePerson\obj\Debug\AlonePerson.csproj.CoreCompileInputs.cache
+D:\TestSession\SavisC#\CSharpBasic\AlonePerson\bin\Debug\AlonePerson.exe.config
+D:\TestSession\SavisC#\CSharpBasic\AlonePerson\bin\Debug\AlonePerson.exe
+D:\TestSession\SavisC#\CSharpBasic\AlonePerson\bin\Debug\AlonePerson.pdb
+D:\TestSession\SavisC#\CSharpBasic\AlonePerson\obj\Debug\AlonePerson.exe
+D:\TestSession\SavisC#\CSharpBasic\AlonePerson\obj\Debug\AlonePerson.pdb
