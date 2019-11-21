@@ -10,5 +10,4 @@ hello world
 9. git merge add-link : de merge code tu branch add-link vao master.
 
 neu conflich git add file -> git push -> git pull -> sua file.
-=======
 hello world. bbbb
